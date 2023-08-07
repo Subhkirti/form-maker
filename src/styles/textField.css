@@ -1,0 +1,44 @@
+.main {
+  background-color: white;
+  position: absolute;
+  inset: 0px;
+}
+.inputTable th {
+  border: 1px solid black;
+  padding: 8px 2px;
+  text-transform: capitalize;
+  font-size: 17px;
+  text-align: left;
+}
+.inputTable {
+  width: 100%;
+  border: 1px solid black;
+}
+.inputTable td {
+  border: 1px solid black;
+  text-transform: capitalize;
+  font-size: 17px;
+}
+
+.inputWrapper {
+  width: 97%;
+  padding: 8px 2px;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.AddMoreBtn {
+  width: 10%;
+  padding: 8px 2px;
+  cursor: pointer;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.crossBtn {
+  width: 100%;
+  padding: 8px 2px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 3px;
+}
